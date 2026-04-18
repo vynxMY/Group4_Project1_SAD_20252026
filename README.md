@@ -15,11 +15,11 @@
 | 7  | ERIC TAN ZHI EN | A25CS0058 |
 
 ## Project Status
-**Phase 1 (Proposal) – Almost Complete** ✅  
+**Phase 1 (Proposal) – Complete** ✅  
 All planning documents (WBS, PERT, Gantt, Feasibility Study, etc.) are finished and tracked in the GitHub Project board.
 
 ## GitHub Project Board (Live)
-[View Current Kanban Board](https://github.com/vynxMY/Group4_Project1_SAD_20252026/projects)  
+[View Current Kanban Board](https://trello.com/b/3Gm9Ua0n/group-project1-sad-20252026)  
 *(Screenshot attached in documentation/ folder)*
 
 ## Repository Contents
